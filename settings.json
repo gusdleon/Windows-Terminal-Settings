@@ -27,7 +27,7 @@
     "defaults": {
       // Put settings here that you want to apply to all profiles.
       "useAcrylic": true,
-      "acrylicOpacity": 0.75
+      "acrylicOpacity": 0.8
     },
     "list": [
       {
@@ -51,7 +51,8 @@
         "source": "Windows.Terminal.Wsl",
         "background": "#300A24",
         "backgroundImage": "C:\\Program Files\\WindowsApps\\CanonicalGroupLimited.UbuntuonWindows_2004.2020.424.0_x64__79rhkp1fndgsc\\Assets\\SplashScreen.scale-200.png",
-        "backgroundImageOpacity": 0.1
+        "backgroundImageOpacity": 0.1,
+        "fontFace": "CozetteVector"
       },
       {
         "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
